@@ -15,8 +15,6 @@ class MarksData:
         self.name = nm
         self.marks = mrk
 
-
-
     def process(self):
         self.total = 0
         self.result = "Pass"
